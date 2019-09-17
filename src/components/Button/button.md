@@ -1,5 +1,5 @@
-#### Button Component
-
+#### Button
 ```js
-<Button title='button' />
+
+<Button title="my Button" />
 ```
