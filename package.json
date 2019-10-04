@@ -7,7 +7,7 @@
     "babel-loader": "^8.0.6",
     "css-loader": "^3.2.0",
     "node-sass": "^4.12.0",
-    "react": "^16.9.0",
+    "react": "^16.10.2",
     "react-dom": "^16.9.0",
     "react-scripts": "3.1.2",
     "react-styleguidist": "^9.1.16",
